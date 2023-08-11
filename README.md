@@ -28,7 +28,7 @@ Dark/Light Themes: ChatEaze offers both dark and light themes to suit your prefe
 Getting Started
 Ready to dive into the world of ChatEaze? Follow these steps:
 
-Clone the repository: git clone https://github.com/yourusername/ChatEaze.git
+Clone the repository: git clone https://github.com/prabhatshukla7676@gmail.com/ChatEaze.git
 Navigate to the project directory: cd ChatEaze
 Install dependencies: npm install
 Start the development server: npm start
